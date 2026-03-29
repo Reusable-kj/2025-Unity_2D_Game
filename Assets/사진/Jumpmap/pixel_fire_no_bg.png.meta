@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: 96a94a49b7de56646891cd98afc05d58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8869794957883446517
+    second: pixel_fire_no_bg_0
+  - first:
+      213: 313071511150979397
+    second: pixel_fire_no_bg_1
+  - first:
+      213: 1163884804181338717
+    second: pixel_fire_no_bg_2
+  - first:
+      213: 502491345466023018
+    second: pixel_fire_no_bg_3
+  - first:
+      213: 1334965182422691233
+    second: pixel_fire_no_bg_4
+  - first:
+      213: 6935914170744568027
+    second: pixel_fire_no_bg_5
+  - first:
+      213: -4325036490453015527
+    second: pixel_fire_no_bg_6
+  - first:
+      213: 778948528764554717
+    second: pixel_fire_no_bg_7
+  - first:
+      213: -8549566225116096965
+    second: pixel_fire_no_bg_8
+  - first:
+      213: 216504103407940162
+    second: pixel_fire_no_bg_9
+  - first:
+      213: 3287443820814820501
+    second: pixel_fire_no_bg_10
+  - first:
+      213: -3005785197070002836
+    second: pixel_fire_no_bg_11
+  - first:
+      213: -1723752736198618910
+    second: pixel_fire_no_bg_12
+  - first:
+      213: 2705967284385131453
+    second: pixel_fire_no_bg_13
+  - first:
+      213: -8789470690186021986
+    second: pixel_fire_no_bg_14
+  - first:
+      213: -5129335539737071692
+    second: pixel_fire_no_bg_15
+  - first:
+      213: -6200207424866439463
+    second: pixel_fire_no_bg_16
+  - first:
+      213: 773085906493536596
+    second: pixel_fire_no_bg_17
+  - first:
+      213: -1289692559602176509
+    second: pixel_fire_no_bg_18
+  - first:
+      213: -2910215481729555310
+    second: pixel_fire_no_bg_19
+  - first:
+      213: -8244538346615530878
+    second: pixel_fire_no_bg_20
+  - first:
+      213: -1705254628450886228
+    second: pixel_fire_no_bg_21
+  - first:
+      213: -307602300536829855
+    second: pixel_fire_no_bg_22
+  - first:
+      213: 4404589958787279914
+    second: pixel_fire_no_bg_23
+  - first:
+      213: -7227802439676446894
+    second: pixel_fire_no_bg_24
+  - first:
+      213: 3203856529107374680
+    second: pixel_fire_no_bg_25
+  - first:
+      213: -960519588838986838
+    second: pixel_fire_no_bg_26
+  - first:
+      213: -111779727725667466
+    second: pixel_fire_no_bg_27
+  - first:
+      213: 1956589753891433991
+    second: pixel_fire_no_bg_28
+  - first:
+      213: -3445969038118231807
+    second: pixel_fire_no_bg_29
+  - first:
+      213: 2413742696679454606
+    second: pixel_fire_no_bg_30
+  - first:
+      213: 8374199406170923836
+    second: pixel_fire_no_bg_31
+  - first:
+      213: -8863834663258236928
+    second: pixel_fire_no_bg_32
+  - first:
+      213: -6025425973890917665
+    second: pixel_fire_no_bg_33
+  - first:
+      213: -932421289569467908
+    second: pixel_fire_no_bg_34
+  - first:
+      213: -1294612878906469416
+    second: pixel_fire_no_bg_35
+  - first:
+      213: 1458434971214663000
+    second: pixel_fire_no_bg_36
+  - first:
+      213: -7555794630907709713
+    second: pixel_fire_no_bg_37
+  - first:
+      213: -2533344240811096325
+    second: pixel_fire_no_bg_38
+  - first:
+      213: 5505161549903244995
+    second: pixel_fire_no_bg_39
+  - first:
+      213: 4427100382413073464
+    second: pixel_fire_no_bg_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 331
+        width: 250
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91422f91a326af3c0800000000000000
+      internalID: -4325036490453015527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 231
+        width: 125
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd03535f816fca00800000000000000
+      internalID: 778948528764554717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 307
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b361748d0d6d95980800000000000000
+      internalID: -8549566225116096965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 290
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59468b6ccb85f9d20800000000000000
+      internalID: 3287443820814820501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_13
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 306
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbaa9788e68d8520800000000000000
+      internalID: 2705967284385131453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 226
+        width: 220
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4597865398d8aba00800000000000000
+      internalID: 773085906493536596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 167
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a15e02e04859d80800000000000000
+      internalID: -8244538346615530878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 169
+        width: 55
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad189343f7b558e0800000000000000
+      internalID: -1705254628450886228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_23
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 166
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ca4c22b3f302d30800000000000000
+      internalID: 4404589958787279914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 131
+        width: 200
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2573264c9ffa1bb90800000000000000
+      internalID: -7227802439676446894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 138
+        width: 172
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaba273e58c8ba2f0800000000000000
+      internalID: -960519588838986838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_33
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 39
+        width: 275
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdad1d53003616ca0800000000000000
+      internalID: -6025425973890917665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dc14311e66d3410800000000000000
+      internalID: 1458434971214663000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_fire_no_bg_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 35
+        width: 283
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf64ca0d5d0c7dcd0800000000000000
+      internalID: -2533344240811096325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7f7b59df7734e9141943980abef97106
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixel_fire_no_bg_0: 8869794957883446517
+      pixel_fire_no_bg_1: 313071511150979397
+      pixel_fire_no_bg_10: 3287443820814820501
+      pixel_fire_no_bg_11: -3005785197070002836
+      pixel_fire_no_bg_12: -1723752736198618910
+      pixel_fire_no_bg_13: 2705967284385131453
+      pixel_fire_no_bg_14: -8789470690186021986
+      pixel_fire_no_bg_15: -5129335539737071692
+      pixel_fire_no_bg_16: -6200207424866439463
+      pixel_fire_no_bg_17: 773085906493536596
+      pixel_fire_no_bg_18: -1289692559602176509
+      pixel_fire_no_bg_19: -2910215481729555310
+      pixel_fire_no_bg_2: 1163884804181338717
+      pixel_fire_no_bg_20: -8244538346615530878
+      pixel_fire_no_bg_21: -1705254628450886228
+      pixel_fire_no_bg_22: -307602300536829855
+      pixel_fire_no_bg_23: 4404589958787279914
+      pixel_fire_no_bg_24: -7227802439676446894
+      pixel_fire_no_bg_25: 3203856529107374680
+      pixel_fire_no_bg_26: -960519588838986838
+      pixel_fire_no_bg_27: -111779727725667466
+      pixel_fire_no_bg_28: 1956589753891433991
+      pixel_fire_no_bg_29: -3445969038118231807
+      pixel_fire_no_bg_3: 502491345466023018
+      pixel_fire_no_bg_30: 2413742696679454606
+      pixel_fire_no_bg_31: 8374199406170923836
+      pixel_fire_no_bg_32: -8863834663258236928
+      pixel_fire_no_bg_33: -6025425973890917665
+      pixel_fire_no_bg_34: -932421289569467908
+      pixel_fire_no_bg_35: -1294612878906469416
+      pixel_fire_no_bg_36: 1458434971214663000
+      pixel_fire_no_bg_37: -7555794630907709713
+      pixel_fire_no_bg_38: -2533344240811096325
+      pixel_fire_no_bg_39: 5505161549903244995
+      pixel_fire_no_bg_4: 1334965182422691233
+      pixel_fire_no_bg_40: 4427100382413073464
+      pixel_fire_no_bg_5: 6935914170744568027
+      pixel_fire_no_bg_6: -4325036490453015527
+      pixel_fire_no_bg_7: 778948528764554717
+      pixel_fire_no_bg_8: -8549566225116096965
+      pixel_fire_no_bg_9: 216504103407940162
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
